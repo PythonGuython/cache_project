@@ -53,3 +53,7 @@ dkms.conf
 
 # VS Code Stuff
 *.vscode
+docs
+*.pdf
+*.html
+*.css
